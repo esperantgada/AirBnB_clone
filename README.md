@@ -1,7 +1,5 @@
 # AirBnB clone - The console
 
-## DESCRIPTION
-
 **AirBnB** is a *complete web application*, integrating database storage, a back-end API, and front-end interface.
 
 The goal of the project is to deploy on the server a simple copy of the AirBnB website.
