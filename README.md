@@ -1,6 +1,4 @@
-```
-<img> https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220131%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220131T073600Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6f4d9c345261f425307a13261471422ff328e186a0587c7da1f92bc6ebf5b131 </img>
-```
+# AirBnB clone - The console
 
 ## DESCRIPTION
 
